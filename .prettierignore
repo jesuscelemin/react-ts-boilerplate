@@ -1,0 +1,14 @@
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+
+node_modules
+build
+.env
+.env.*
+!.env.example
+dist
+
+yarn.lock
+.DS_Store
